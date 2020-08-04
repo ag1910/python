@@ -1,0 +1,6 @@
+x = int(input("bir değer giriniz "))
+y = int(input("bir değer giriniz "))
+print("toplamları : ",x+y)
+print("farkları : ",x-y)
+print("çarpımları : ",x*y)
+print("bölümleri : ",x/y)
